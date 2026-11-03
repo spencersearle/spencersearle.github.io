@@ -40,3 +40,16 @@ No GitHub repo exists yet and Pages is off. Going live means creating a **public
 - LinkedIn URL added (or left off).
 - Intro rewritten.
 - Plaite and AIC descriptions are at a level of detail he is comfortable making public.
+
+## v2 (2026-11-02)
+
+Audience shifted to **business owners who might hire Spencer to build an app**, the way Quantum Fence Builder was built for Meridian Fence. Professional work only; in-progress apps and fun side projects stay off on purpose.
+
+- Featured, in order: Quantum Fence Builder (freelance, sole proprietor, Meridian Fence named), Plaite (research assistant, contributions listed, App Store link), Monolito Truco (labeled a personal project built for fun), Connect, AIC capstone.
+- "More work" compact list: Tri-Point Partners (tripointpartners.org).
+- New "Working with AI" section: AI fluency and the custom Claude skills and workflows.
+- Contact renamed "Work with me" with a short pitch to business owners.
+- About mentions the planned Monte Carlo quant project.
+- No sale price anywhere (Spencer, 2026-11-02).
+- Intro replaced 2026-11-02: name as the large header, a short accent rule, then option 4 of ten drafts.
+- Made live 2026-11-02 at Spencer's instruction: repo public, GitHub Pages on main.
